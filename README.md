@@ -1,7 +1,7 @@
 # Hi there, I'm Usamah Ikhwana Fadhlih 👋
 
 <p align="center">
-  <img src="[https://gitfut.com/dadihkung](https://gitfut.com/dadihkung)" alt="GitFUT Card" width="280" />
+  <img src="https://gitfut.com/card/dadihkung.png" alt="GitFUT Card" width="280" />
 </p>
 
 ### 🚀 Full-Stack Web Developer
