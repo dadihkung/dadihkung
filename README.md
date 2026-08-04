@@ -25,13 +25,13 @@
 
 <b>🏟️ SQUAD LINEUP (Tech Stack)</b><br/>
 <p align="left">
-  <img src="https://cdn.simpleicons.org/go" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/php" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/laravel" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/javascript" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/python" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/mariadb" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/nginx" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" />
 </p>
 
 <br clear="all" />
