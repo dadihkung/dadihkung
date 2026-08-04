@@ -47,5 +47,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dadihkung&theme=tokyo-night&bg_color=0b0e14&color=38ef7d&line=38ef7d&point=ffffff" width="100%" />
+  <img src="https://raw.githubusercontent.com/dadihkung/dadihkung/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Grid" width="100%" />
 </p>
