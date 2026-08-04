@@ -14,12 +14,12 @@
         <li>💬 Ask me about <b>PHP/Laravel</b>, <b>Go</b>, and <b>Database migrations</b>.</li>
         <li>📫 How to reach me: <code>dadihusamah@gmail.com</code></li>
       </ul>
-      <br />
-      <!-- Monthly Commits & Contribution Streak -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dadihkung&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="380" />
     </td>
   </tr>
 </table>
+
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dadihkung&theme=tokyo-night" alt="GitHub Contribution Graph" width="100%" />
 
 ---
 
