@@ -7,14 +7,11 @@
   <a href="https://github.com/dadihkung"><img src="https://img.shields.io/badge/GitHub%20Stats-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
-<table border="0">
+<table>
   <tr>
-    <!-- LEFT COLUMN: FUT CARD -->
     <td width="280" valign="top" align="center">
-      <img src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" width="260" />
+      <img src="dadihkung-gitfut.png" alt="GitFUT Card" width="260" />
     </td>
-
-    <!-- RIGHT COLUMN: BIO & TECH STACK -->
     <td valign="top">
       <b>POSITION:</b> <code>CAM / Full-Stack Web Developer</code><br/>
       <b>PREFERRED FOOT:</b> <code>Go / PHP / JS</code>
@@ -45,10 +42,10 @@
 ### 📊 ULTIMATE TEAM PERFORMANCE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dadihkung&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadihkung&layout=compact&theme=tokyonight&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dadihkung&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadihkung&layout=compact&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dadihkung&theme=tokyo-night&bg_color=0b0e14&color=38ef7d&line=38ef7d&point=ffffff&hide_border=false" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dadihkung&theme=tokyo-night&bg_color=0b0e14&color=38ef7d&line=38ef7d&point=ffffff" width="100%" />
 </p>
