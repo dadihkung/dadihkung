@@ -7,26 +7,24 @@
   <a href="https://github.com/dadihkung"><img src="https://img.shields.io/badge/GitHub%20Stats-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
-<div align="center">
-  <img src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" width="280" />
-</div>
+<p align="left">
+  <img src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" width="260" align="left" style="margin-right: 20px;" />
+</p>
 
----
+<b>POSITION:</b> <code>CAM / Full-Stack Web Developer</code><br/>
+<b>PREFERRED FOOT:</b> <code>Go / PHP / JS</code>
+<br/><br/>
 
-### 📋 PLAYER ATTRIBUTES & SCOUT NOTES
-
-* ⚽ <b>POSITION:</b> <code>CAM / Full-Stack Web Developer</code>
-* 👟 <b>PREFERRED FOOT:</b> <code>Go / PHP / JS</code>
+<b>📋 PLAYER ATTRIBUTES & SCOUT NOTES</b>
 * 🔭 <b>Role:</b> Building scalable backend architectures & web platforms.
 * 🌱 <b>Skill:</b> Learning microservices and high-performance execution.
 * 💬 <b>Specialties:</b> <code>PHP/Laravel</code>, <code>Go</code>, <code>MariaDB/MySQL</code>, <code>SSH Security</code>.
 * 📫 <b>Direct Line:</b> <code>dadihusamah@gmail.com</code>
 
----
+<br/>
 
-### 🏟️ SQUAD LINEUP (Tech Stack)
-
-<p align="center">
+<b>🏟️ SQUAD LINEUP (Tech Stack)</b><br/>
+<p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -35,3 +33,5 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
+
+<br clear="all" />
