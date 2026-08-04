@@ -14,6 +14,9 @@
         <li>💬 Ask me about <b>PHP/Laravel</b>, <b>Go</b>, and <b>Database migrations</b>.</li>
         <li>📫 How to reach me: <code>dadihusamah@gmail.com</code></li>
       </ul>
+      <br />
+      <!-- Monthly Commits & Contribution Streak -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dadihkung&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="380" />
     </td>
   </tr>
 </table>
@@ -47,5 +50,5 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dadihusamah)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://g.dev/dadihusamah)
