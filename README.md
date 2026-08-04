@@ -25,13 +25,13 @@
 
 <b>🏟️ SQUAD LINEUP (Tech Stack)</b><br/>
 <p align="left">
-  <img src="https://img.shields.io/badge/MID-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/MID-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/FWD-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/WING-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SUB-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/DEF-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/GK-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/go" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/php" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/laravel" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/javascript" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/python" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/mariadb" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/nginx" width="40" height="40" />
 </p>
 
 <br clear="all" />
