@@ -1,11 +1,22 @@
 # Hi there, I'm Usamah Ikhwana Fadhlih 👋
 
-<p align="center">
-  <img src="dadihkung-gitfut.png" alt="GitFUT Card" width="280" />
-</p>
-
-### 🚀 Full-Stack Web Developer
-Building clean, performant, and scalable web applications. Passionate about backend architecture, API development, and modern user interfaces.
+<table border="0" style="border: none;">
+  <tr>
+    <td width="300" valign="top" style="border: none;">
+      <img src="dadihkung-gitfut.png" alt="GitFUT Card" width="280" />
+    </td>
+    <td valign="top" style="border: none; text-align: left;">
+      <h3>🚀 Full-Stack Web Developer</h3>
+      <p>Building clean, performant, and scalable web applications. Passionate about backend architecture, API development, and modern user interfaces.</p>
+      <ul>
+        <li>🔭 Currently working on scalable backend architectures & web platforms.</li>
+        <li>🌱 Learning more about microservices and performance optimization.</li>
+        <li>💬 Ask me about <b>PHP/Laravel</b>, <b>Go</b>, and <b>Database migrations</b>.</li>
+        <li>📫 How to reach me: <code>dadihusamah@gmail.com</code></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -28,18 +39,10 @@ Building clean, performant, and scalable web applications. Passionate about back
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dadihkung&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadihkung&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
-
----
-
-### ⚡ Quick Facts
-* 🔭 Currently working on scalable backend architectures & web platforms.
-* 🌱 Learning more about microservices and performance optimization.
-* 💬 Ask me about **PHP/Laravel**, **Go**, and **Database migrations**.
-* 📫 How to reach me: `dadihusamah@gmail.com`
 
 ---
 
