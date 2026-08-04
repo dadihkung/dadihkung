@@ -1,5 +1,9 @@
 # Hi there, I'm Usamah Ikhwana Fadhlih 👋
 
+<p align="center">
+  <img src="https://gitfut.com/dadihkung" alt="GitFUT Card" width="280" />
+</p>
+
 ### 🚀 Full-Stack Web Developer
 Building clean, performant, and scalable web applications. Passionate about backend architecture, API development, and modern user interfaces.
 
