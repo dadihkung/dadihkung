@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td width="280" valign="top" align="center">
-      <img src="dadihkung-gitfut.png" alt="GitFUT Card" width="260" />
+      <img src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" width="260" />
     </td>
     <td valign="top">
       <b>POSITION:</b> <code>CAM / Full-Stack Web Developer</code><br/>
