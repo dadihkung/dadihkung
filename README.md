@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" width="260" align="left" style="margin-right: 20px;" />
-</p>
+<img src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" width="280" align="left" style="margin-right: 20px;" />
 
 <p align="left" style="font-size: 20px;"><b>⚽ Usamah Ikhwana Fadhlih | Player Profile 🏆</b></p>
 
@@ -13,8 +11,7 @@
 
 <b>CLUB:</b> <code>PT Cakrawala Mitra Bersama</code><br/>
 <b>POSITION:</b> <code>CAM / Full-Stack Web Developer</code><br/>
-<b>PREFERRED FOOT:</b> <code>Go / PHP / JS</code>
-<br/><br/>
+<b>PREFERRED FOOT:</b> <code>Go / PHP / JS</code><br/>
 
 <b>📋 PLAYER ATTRIBUTES & SCOUT NOTES</b>
 * 🏢 <b>Current Club:</b> Full-Stack Developer at <b>PT Cakrawala Mitra Bersama</b>.
@@ -23,17 +20,13 @@
 * 💬 <b>Specialties:</b> <code>PHP/Laravel</code>, <code>Go</code>, <code>MariaDB/MySQL</code>, <code>SSH Security</code>.
 * 📫 <b>Direct Line:</b> <code>dadihusamah@gmail.com</code>
 
-<br/>
-
 <b>🏟️ SQUAD LINEUP (Tech Stack)</b><br/>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" width="28" height="28" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="28" height="28" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="28" height="28" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="28" height="28" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="28" height="28" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB" width="28" height="28" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="28" height="28" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" width="28" height="28" style="margin-right: 6px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="28" height="28" style="margin-right: 6px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="28" height="28" style="margin-right: 6px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="28" height="28" style="margin-right: 6px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="28" height="28" style="margin-right: 6px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB" width="28" height="28" style="margin-right: 6px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="28" height="28" />
 
 <br clear="all" />
