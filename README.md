@@ -5,15 +5,11 @@
 
 <table>
   <tr>
-    <td colspan="2">
-      <img src="Cover-Walkout-Ultimate-Team-FC-25.png" width="100%" alt="EA FC Walkout Background" style="border-radius: 6px;" />
-    </td>
-  </tr>
-  <tr>
     <td valign="top" width="280">
       <img src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" width="260" />
     </td>
     <td valign="top">
+      <img src="Cover-Walkout-Ultimate-Team-FC-25.png" width="100%" alt="EA FC Walkout" style="border-radius: 6px;" /><br/><br/>
       <p align="left" style="font-size: 20px;"><b>⚽ Usamah Ikhwana Fadhlih | Player Profile 🏆</b></p>
       <p align="left">
         <a href="https://linkedin.com/in/dadihusamah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
