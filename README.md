@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="Cover-Walkout-Ultimate-Team-FC-25.png" width="100%" alt="EA FC Pack Banner" />
-</p>
-
 <details open>
 <summary><b>🎮 PLAYER PROFILE CARD</b></summary>
 
 <br/>
+
+<p align="center">
+  <img src="Cover-Walkout-Ultimate-Team-FC-25.png" width="100%" alt="EA FC Pack Banner" />
+</p>
 
 <table>
   <tr>
