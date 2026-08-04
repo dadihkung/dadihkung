@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td width="280" valign="top" align="center">
-      <img src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" width="260" />
+      <img src="dadihkung-gitfut.png" alt="GitFUT Card" width="260" />
     </td>
     <td valign="top">
       <b>POSITION:</b> <code>CAM / Full-Stack Web Developer</code><br/>
@@ -42,8 +42,8 @@
 ### 📊 ULTIMATE TEAM PERFORMANCE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dadihkung&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadihkung&layout=compact&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dadihkung&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadihkung&layout=compact&theme=tokyonight" width="300" />
 </p>
 
 <p align="center">
