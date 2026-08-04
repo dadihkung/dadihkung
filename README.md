@@ -7,7 +7,7 @@
   <a href="https://github.com/dadihkung"><img src="https://img.shields.io/badge/GitHub%20Stats-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
-<table>
+<table frame="void" rules="none">
   <tr>
     <td width="280" valign="top" align="center">
       <img src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" width="260" />
