@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <p align="left" style="font-size: 24px;"><b>⚽ Usamah Ikhwana Fadhlih | Player Profile 🏆</b></p>
   
   <a href="https://linkedin.com/in/dadihusamah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
