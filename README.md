@@ -3,11 +3,12 @@
 
 <br/>
 
-<p align="center">
-  <img src="Cover-Walkout-Ultimate-Team-FC-25.png" width="100%" alt="EA FC Pack Banner" />
-</p>
-
 <table>
+  <tr>
+    <td colspan="2">
+      <img src="Cover-Walkout-Ultimate-Team-FC-25.png" width="100%" alt="EA FC Walkout Background" style="border-radius: 6px;" />
+    </td>
+  </tr>
   <tr>
     <td valign="top" width="280">
       <img src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" width="260" />
