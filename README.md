@@ -25,10 +25,12 @@
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
       <br/><br/>
       <b>📊 Match Form & Season Performance:</b><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=dadihkung&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="135" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadihkung&layout=compact&theme=tokyonight&hide_border=true" height="135" />
+      <img src="https://github-readme-stats.vercel.app/api?username=dadihkung&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadihkung&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dadihkung&theme=tokyo-night&bg_color=0b0e14&color=38ef7d&line=38ef7d&point=ffffff&hide_border=true" width="100%" height="110" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dadihkung&theme=tokyo-night&bg_color=0b0e14&color=38ef7d&line=38ef7d&point=ffffff&hide_border=true" width="100%" />
+</p>
