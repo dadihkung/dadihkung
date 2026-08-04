@@ -11,7 +11,7 @@
   <tr>
     <!-- LEFT COLUMN: FUT CARD -->
     <td width="280" valign="top" align="center">
-      <img src="dadihkung-gitfut.png" alt="GitFUT Card" width="260" />
+      <img src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" width="260" />
     </td>
 
     <!-- RIGHT COLUMN: BIO & TECH STACK -->
