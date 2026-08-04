@@ -25,8 +25,8 @@ Building clean, performant, and scalable web applications. Passionate about back
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dadihkung&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadihkung&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -35,7 +35,7 @@ Building clean, performant, and scalable web applications. Passionate about back
 * 🔭 Currently working on scalable backend architectures & web platforms.
 * 🌱 Learning more about microservices and performance optimization.
 * 💬 Ask me about **PHP/Laravel**, **Go**, and **Database migrations**.
-* 📫 How to reach me: `your.email@example.com`
+* 📫 How to reach me: `dadihusamah@gmail.com`
 
 ---
 
