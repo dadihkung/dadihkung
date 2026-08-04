@@ -47,5 +47,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dadihkung/dadihkung/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Grid" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dadihkung&theme=github_dark" alt="GitHub Contribution Grid" width="100%" />
 </p>
