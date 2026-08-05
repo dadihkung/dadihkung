@@ -24,8 +24,8 @@
 
 <br clear="left"/>
 
+<p align="left"><b>TECH STACK LINEUP</b></p>
 <p align="left">
-  <b>TECH STACK LINEUP</b><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" width="32" height="32" style="margin-right: 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="32" height="32" style="margin-right: 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="32" height="32" style="margin-right: 8px;" />
