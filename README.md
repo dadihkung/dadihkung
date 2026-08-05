@@ -24,15 +24,13 @@
 
 <br/>
 
-<b>🏟️ SQUAD LINEUP (Tech Stack)</b>
-<p align="left" style="margin-top: 5px; margin-bottom: 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" width="28" height="28" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="28" height="28" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="28" height="28" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="28" height="28" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="28" height="28" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB" width="28" height="28" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="28" height="28" />
-</p>
+<b>🏟️ SQUAD LINEUP (Tech Stack)</b><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" width="28" height="28" style="margin-right: 6px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="28" height="28" style="margin-right: 6px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="28" height="28" style="margin-right: 6px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="28" height="28" style="margin-right: 6px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="28" height="28" style="margin-right: 6px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB" width="28" height="28" style="margin-right: 6px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="28" height="28" />
 
 <br clear="all" />
