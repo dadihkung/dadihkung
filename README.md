@@ -1,4 +1,6 @@
-<img src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" width="280" align="left" style="margin-right: 20px;" />
+<p align="left">
+  <img src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" width="280" align="left" style="margin-right: 20px;" />
+</p>
 
 <p align="left" style="font-size: 20px;"><b>⚽ Usamah Ikhwana Fadhlih | Player Profile 🏆</b></p>
 
@@ -14,11 +16,11 @@
 <b>PREFERRED FOOT:</b> <code>Go / PHP / JS</code><br/>
 
 <b>📋 PLAYER ATTRIBUTES & SCOUT NOTES</b>
-* 🏢 <b>Current Club:</b> Full-Stack Developer at <b>PT Cakrawala Mitra Bersama</b>.
-* 🔭 <b>Role:</b> Building scalable backend architectures & web platforms.
-* 🌱 <b>Skill:</b> Learning microservices and high-performance execution.
-* 💬 <b>Specialties:</b> <code>PHP/Laravel</code>, <code>Go</code>, <code>MariaDB/MySQL</code>, <code>SSH Security</code>.
-* 📫 <b>Direct Line:</b> <code>dadihusamah@gmail.com</code>
+* 🏢 <code><b>Current Club:</b> Full-Stack Developer at PT Cakrawala Mitra Bersama.</code>
+* 🔭 <code><b>Role:</b> Building scalable backend architectures & web platforms.</code>
+* 🌱 <code><b>Skill:</b> Learning microservices and high-performance execution.</code>
+* 💬 <code><b>Specialties:</b> PHP/Laravel, Go, MariaDB/MySQL, SSH Security.</code>
+* 📫 <code><b>Direct Line:</b> dadihusamah@gmail.com</code>
 
 <b>🏟️ SQUAD LINEUP (Tech Stack)</b><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" width="28" height="28" style="margin-right: 6px;" />
