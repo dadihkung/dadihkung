@@ -2,7 +2,7 @@
 <summary><b>PLAYER PROFILE CARD</b></summary>
 <br/>
 
-<img align="left" width="260" src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" style="margin-right: 20px;" />
+<img align="left" width="280" src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" style="margin-right: 20px;" />
 
 <p align="left" style="margin-top: 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Sekuya&size=19&pause=1000&color=FFFFFF&vCenter=true&width=580&height=35&duration=1&lines=Usamah+Ikhwana+Fadhlih+%7C+CMB+FC" alt="Usamah Ikhwana Fadhlih | CMB FC" />
@@ -30,8 +30,9 @@
   <li><code><b>Role:</b> Building scalable backend architectures & web platforms.</code></li>
   <li><code><b>Skill:</b> Learning microservices and high-performance execution.</code></li>
   <li><code><b>Specialties:</b> PHP/Laravel, Go, MariaDB/MySQL, SSH Security.</code></li>
-  <li><code><b>Direct Line:</b> dadihusamah@gmail.com</code></li>
 </ul>
+
+<br clear="left"/>
 
 <b>SQUAD LINEUP (Tech Stack)</b><br/>
 <p align="left" style="margin-top: 5px;">
@@ -41,9 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="28" height="28" style="margin-right: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="28" height="28" style="margin-right: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB" width="28" height="28" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="28" height="28" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx" title="Nginx" width="28" height="28" />
 </p>
-
-<br clear="left"/>
 
 </details>
