@@ -1,29 +1,19 @@
 <details open>
 <summary><b>PLAYER PROFILE CARD</b></summary>
 <br/>
-
 <img align="left" width="280" src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" style="margin-right: 20px;" />
-
 <p align="left" style="margin-top: 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Sekuya&size=19&pause=1000&color=FFFFFF&vCenter=true&width=580&height=35&duration=1&lines=Usamah+Ikhwana+Fadhlih+%7C+CMB+FC" alt="Usamah Ikhwana Fadhlih | CMB FC" />
 </p>
-
 <p align="left">
   <a href="https://linkedin.com/in/dadihusamah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://g.dev/dadihusamah"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/dadihkung"><img src="https://img.shields.io/badge/GitHub%20Stats-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:dadihusamah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
-
-<p align="left" style="margin: 10px 0;">
-  <a href="mailto:dadihusamah@gmail.com" style="display:inline-block; padding:8px 18px; background-color:#D14836; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold; font-size:13px;">
-    ✉️ Email Me
-  </a>
-</p>
-
 <b>CLUB:</b> <code>PT Cakrawala Mitra Bersama</code><br/>
 <b>POSITION:</b> <code>CAM / Full-Stack Web Developer</code><br/>
 <b>PREFERRED FOOT:</b> <code>Go / PHP / JS</code><br/><br/>
-
 <b>PLAYER ATTRIBUTES & SCOUT NOTES</b>
 <ul>
   <li><code><b>Current Club:</b> Full-Stack Developer at PT Cakrawala Mitra Bersama.</code></li>
@@ -31,24 +21,17 @@
   <li><code><b>Skill:</b> Learning microservices and high-performance execution.</code></li>
   <li><code><b>Specialties:</b> PHP/Laravel, Go, MariaDB/MySQL, SSH Security.</code></li>
 </ul>
-
 <br clear="left"/>
-
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" style="border-radius: 10px; background-color: #161b22; padding: 16px 24px;">
-        <b>SQUAD LINEUP (Tech Stack)</b><br/><br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" width="32" height="32" style="margin: 0 8px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="32" height="32" style="margin: 0 8px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="32" height="32" style="margin: 0 8px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32" style="margin: 0 8px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="32" height="32" style="margin: 0 8px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB" width="32" height="32" style="margin: 0 8px;" />
-        <img src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx" title="Nginx" width="32" height="32" style="margin: 0 8px;" />
-      </td>
-    </tr>
-  </table>
+  <span style="display:inline-block; border-radius:10px; background-color:#161b22; padding:16px 24px;">
+    <b>SQUAD LINEUP (Tech Stack)</b><br/><br/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" width="32" height="32" style="margin: 0 8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="32" height="32" style="margin: 0 8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="32" height="32" style="margin: 0 8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32" style="margin: 0 8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="32" height="32" style="margin: 0 8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB" width="32" height="32" style="margin: 0 8px;" />
+    <img src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx" title="Nginx" width="32" height="32" style="margin: 0 8px;" />
+  </span>
 </p>
-
 </details>
