@@ -1,22 +1,24 @@
 <details open>
 <summary><b>PLAYER PROFILE CARD</b></summary>
-
 <br/>
-
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; background-color: transparent; width: auto;">
-  <tr style="border: none; background-color: transparent;">
-    <td valign="top" width="280" style="border: none; background-color: transparent; padding: 0 20px 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none !important; background-color: transparent; width: auto;">
+  <tr style="border: none !important; background-color: transparent;">
+    <td valign="top" width="280" style="border: none !important; background-color: transparent; padding: 0 20px 0 0;">
       <img src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" width="260" />
     </td>
-    <td valign="top" style="border: none; background-color: transparent; padding: 0;">
+    <td valign="top" style="border: none !important; background-color: transparent; padding: 0;">
       <p align="left" style="margin-top: 0;">
         <img src="https://readme-typing-svg.demolab.com?font=Sekuya&size=19&pause=1000&color=FFFFFF&vCenter=true&width=580&height=35&duration=1&lines=Usamah+Ikhwana+Fadhlih+%7C+CMB+FC" alt="Usamah Ikhwana Fadhlih | CMB FC" />
       </p>
       <p align="left">
         <a href="https://linkedin.com/in/dadihusamah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
         <a href="https://g.dev/dadihusamah"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-        <a href="mailto:dadihusamah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
         <a href="https://github.com/dadihkung"><img src="https://img.shields.io/badge/GitHub%20Stats-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      </p>
+      <p align="left" style="margin: 10px 0;">
+        <a href="mailto:dadihusamah@gmail.com" style="display:inline-block; padding:8px 18px; background-color:#D14836; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold; font-size:13px;">
+          ✉️ Email Me
+        </a>
       </p>
       <b>CLUB:</b> <code>PT Cakrawala Mitra Bersama</code><br/>
       <b>POSITION:</b> <code>CAM / Full-Stack Web Developer</code><br/>
@@ -42,5 +44,4 @@
     </td>
   </tr>
 </table>
-
 </details>
