@@ -23,8 +23,8 @@
 </ul>
 <br clear="left"/>
 <p align="center">
-  <span style="display:inline-block; border-radius:10px; background-color:#161b22; padding:16px 24px;">
-    <b>SQUAD LINEUP (Tech Stack)</b><br/><br/>
+  <span style="display:inline-block; border-radius:10px; background-color:#161b22; padding:16px 5px;">
+    <b>TECH STACK LINEUP</b><br/><br/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" width="32" height="32" style="margin: 0 8px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="32" height="32" style="margin: 0 8px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="32" height="32" style="margin: 0 8px;" />
