@@ -10,7 +10,7 @@
     </td>
     <td valign="top" style="border: none; background-color: transparent; padding: 0;">
       <p align="left" style="margin-top: 0;">
-        <img src="https://readme-typing-svg.demolab.com?font=Sekuya&size=15&pause=1000&color=FFFFFF&vCenter=true&width=580&height=35&duration=1&lines=%E2%9A%BD+Usamah+Ikhwana+Fadhlih+%7C+CMB+FC+%F0%9F%8F%86" alt="Usamah Ikhwana Fadhlih | CMB FC" />
+        <img src="https://readme-typing-svg.demolab.com?font=Sekuya&size=15&pause=1000&color=FFFFFF&vCenter=true&width=580&height=35&duration=1&lines=Usamah+Ikhwana+Fadhlih+%7C+CMB+FC" alt="Usamah Ikhwana Fadhlih | CMB FC" />
       </p>
       <p align="left">
         <a href="https://linkedin.com/in/dadihusamah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
