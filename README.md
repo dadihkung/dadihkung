@@ -21,7 +21,10 @@
   <li><code><b>Skill:</b> Learning microservices and high-performance execution.</code></li>
   <li><code><b>Specialties:</b> PHP/Laravel, Go, MariaDB/MySQL, SSH Security.</code></li>
 </ul>
+
 <br clear="left"/>
+<br/>
+<br/>
 
 <p align="center">
   <span style="display:inline-block; border-radius:10px; background-color:#161b22; padding:16px 5px;">
