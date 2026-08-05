@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Sekuya&size=22&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=%E2%9A%BD+Usamah+Ikhwana+Fadhlih+%7C+Player+Profile+%F0%9F%8F%86" alt="Usamah Ikhwana Fadhlih | Player Profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sekuya&size=22&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=%E2%9A%BD+Usamah+Ikhwana+Fadhlih+%7C+Player+Profile+%F0%9F%8F%86&duration=1&height=40" alt="Usamah Ikhwana Fadhlih | Player Profile" />
 </p>
 
 <p align="left">
