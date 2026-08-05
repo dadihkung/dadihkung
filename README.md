@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td valign="top" width="280">
+    <td valign="top" width="320">
       <img src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" width="260" />
     </td>
     <td valign="top">
