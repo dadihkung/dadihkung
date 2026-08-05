@@ -5,7 +5,7 @@
 <p align="left" style="margin-top: 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Sekuya&size=17&pause=1000&color=FFFFFF&vCenter=true&width=480&height=32&duration=1&lines=Usamah+Ikhwana+Fadhlih+%7C+CMB+FC" alt="Usamah Ikhwana Fadhlih | CMB FC" />
 </p>
-<p align="left">
+<p align="left" style="margin-bottom: 20px;">
   <a href="https://linkedin.com/in/dadihusamah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://g.dev/dadihusamah"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/dadihkung"><img src="https://img.shields.io/badge/GitHub%20Stats-181717?style=flat-square&logo=github&logoColor=white" /></a>
@@ -21,7 +21,6 @@
   <li><code><b>Skill:</b> Learning microservices and high-performance execution.</code></li>
   <li><code><b>Specialties:</b> PHP/Laravel, Go, MariaDB/MySQL, SSH Security.</code></li>
 </ul>
-
 <br clear="left"/>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" width="32" height="32" style="margin-right: 8px;" />
@@ -32,5 +31,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB" width="32" height="32" style="margin-right: 8px;" />
   <img src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx" title="Nginx" width="32" height="32" />
 </p>
-
 </details>
