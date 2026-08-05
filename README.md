@@ -1,9 +1,9 @@
 <details open>
 <summary><b>PLAYER PROFILE CARD</b></summary>
 <br/>
-<img align="left" width="280" src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" style="margin-right: 20px;" />
+<img align="left" width="220" src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" style="margin-right: 20px;" />
 <p align="left" style="margin-top: 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Sekuya&size=19&pause=1000&color=FFFFFF&vCenter=true&width=580&height=35&duration=1&lines=Usamah+Ikhwana+Fadhlih+%7C+CMB+FC" alt="Usamah Ikhwana Fadhlih | CMB FC" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sekuya&size=17&pause=1000&color=FFFFFF&vCenter=true&width=480&height=32&duration=1&lines=Usamah+Ikhwana+Fadhlih+%7C+CMB+FC" alt="Usamah Ikhwana Fadhlih | CMB FC" />
 </p>
 <p align="left">
   <a href="https://linkedin.com/in/dadihusamah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
