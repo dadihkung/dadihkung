@@ -22,6 +22,7 @@
   <li><code><b>Specialties:</b> PHP/Laravel, Go, MariaDB/MySQL, SSH Security.</code></li>
 </ul>
 <br clear="left"/>
+
 <p align="center">
   <span style="display:inline-block; border-radius:10px; background-color:#161b22; padding:16px 5px;">
     <b>TECH STACK LINEUP</b><br/><br/>
@@ -34,4 +35,5 @@
     <img src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx" title="Nginx" width="32" height="32" style="margin: 0 8px;" />
   </span>
 </p>
+
 </details>
