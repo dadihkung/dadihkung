@@ -1,3 +1,4 @@
+<details open>
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; background-color: transparent; width: auto;">
   <tr style="border: none; background-color: transparent;">
     <td valign="top" width="280" style="border: none; background-color: transparent; padding: 0 20px 0 0;">
@@ -35,5 +36,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="28" height="28" />
       </p>
     </td>
+    <details>
   </tr>
 </table>
