@@ -1,5 +1,5 @@
 <details open>
-<summary><b>🎮 PLAYER PROFILE CARD</b></summary>
+<summary><b>PLAYER PROFILE CARD</b></summary>
 
 <br/>
 
@@ -23,13 +23,13 @@
       <b>PREFERRED FOOT:</b> <code>Go / PHP / JS</code><br/><br/>
       <b>📋 PLAYER ATTRIBUTES & SCOUT NOTES</b>
       <ul>
-        <li>🏢 <code><b>Current Club:</b> Full-Stack Developer at PT Cakrawala Mitra Bersama.</code></li>
-        <li>🔭 <code><b>Role:</b> Building scalable backend architectures & web platforms.</code></li>
-        <li>🌱 <code><b>Skill:</b> Learning microservices and high-performance execution.</code></li>
-        <li>💬 <code><b>Specialties:</b> PHP/Laravel, Go, MariaDB/MySQL, SSH Security.</code></li>
-        <li>📫 <code><b>Direct Line:</b> dadihusamah@gmail.com</code></li>
+        <li><code><b>Current Club:</b> Full-Stack Developer at PT Cakrawala Mitra Bersama.</code></li>
+        <li><code><b>Role:</b> Building scalable backend architectures & web platforms.</code></li>
+        <li><code><b>Skill:</b> Learning microservices and high-performance execution.</code></li>
+        <li><code><b>Specialties:</b> PHP/Laravel, Go, MariaDB/MySQL, SSH Security.</code></li>
+        <li><code><b>Direct Line:</b> dadihusamah@gmail.com</code></li>
       </ul>
-      <b>🏟️ SQUAD LINEUP (Tech Stack)</b><br/>
+      <b>SQUAD LINEUP (Tech Stack)</b><br/>
       <p align="left" style="margin-top: 5px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" width="28" height="28" style="margin-right: 6px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="28" height="28" style="margin-right: 6px;" />
