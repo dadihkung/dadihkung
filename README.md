@@ -1,9 +1,9 @@
-<table>
+<table border="0">
   <tr>
-    <td valign="top" width="280">
+    <td valign="top" width="280" style="border: none;">
       <img src="dadihkung-gitfut-removebg-preview.png" alt="GitFUT Card" width="260" />
     </td>
-    <td valign="top">
+    <td valign="top" style="border: none;">
       <p align="left" style="margin-top: 0;">
         <img src="https://readme-typing-svg.demolab.com?font=Sekuya&size=15&pause=1000&color=FFFFFF&vCenter=true&width=580&height=35&duration=1&lines=%E2%9A%BD+Usamah+Ikhwana+Fadhlih+%7C+Player+Profile+%F0%9F%8F%86" alt="Usamah Ikhwana Fadhlih | Player Profile" />
       </p>
