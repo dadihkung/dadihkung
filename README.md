@@ -21,7 +21,7 @@
       <b>CLUB:</b> <code>PT Cakrawala Mitra Bersama</code><br/>
       <b>POSITION:</b> <code>CAM / Full-Stack Web Developer</code><br/>
       <b>PREFERRED FOOT:</b> <code>Go / PHP / JS</code><br/><br/>
-      <b>📋 PLAYER ATTRIBUTES & SCOUT NOTES</b>
+      <b>PLAYER ATTRIBUTES & SCOUT NOTES</b>
       <ul>
         <li><code><b>Current Club:</b> Full-Stack Developer at PT Cakrawala Mitra Bersama.</code></li>
         <li><code><b>Role:</b> Building scalable backend architectures & web platforms.</code></li>
