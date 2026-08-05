@@ -35,7 +35,7 @@
 <br clear="left"/>
 
 <b>SQUAD LINEUP (Tech Stack)</b><br/>
-<p align="left" style="margin-top: 5px;">
+<p align="left" style="margin-top: 5px; margin-left: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" width="28" height="28" style="margin-right: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="28" height="28" style="margin-right: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="28" height="28" style="margin-right: 6px;" />
